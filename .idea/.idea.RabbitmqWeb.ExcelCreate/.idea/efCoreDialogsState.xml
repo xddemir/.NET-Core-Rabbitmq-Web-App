@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:a08df398-2ee1-4b15-9b96-fe212e9ff55c:dbContext" value="RabbitmqWeb.ExcelCreate.Models.AppDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:dbContextFolder" value="Context" />
+        <entry key="Common:dbContextName" value="MyDbContext" />
+        <entry key="Common:generateOnConfiguring" value="true" />
+        <entry key="Common:noBuild" value="true" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:provider" value="Microsoft.EntityFrameworkCore.SqlServer" />
+        <entry key="Common:schemas" value="" />
+        <entry key="Common:tables" value="" />
+        <entry key="Common:useAttributes" value="false" />
+        <entry key="Common:useDatabaseNames" value="false" />
+        <entry key="Common:usePluralizer" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
